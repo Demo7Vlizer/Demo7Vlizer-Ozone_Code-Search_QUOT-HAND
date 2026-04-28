@@ -820,14 +820,14 @@
   },
   {
     "id": "118",
-    "handwrittenText": "",
+    "handwrittenText": "Finish wall clamp to support Bar, Finish Bar to Glass Clamp, Bar to Bar Connector, , T Connector, Support Bar Rod, wall to glass 180deg hinge, Glass to Glass 180deg, glass to glass 135deg hinge, G to G connector 135deg, Middle Seal, Magnetic Seal 180deg, 135deg Seal, Water Disperser",
     "typedProductCode": "",
     "handwritingImage": "assets/HANDQUOT_118.jpeg",
     "typedImage": "assets/QUOT_118.jpeg"
   },
   {
     "id": "119",
-    "handwrittenText": "",
+    "handwrittenText": "777L, Card, Power Saver, Card Reader",
     "typedProductCode": "",
     "handwritingImage": "assets/HANDQUOT_119.jpeg",
     "typedImage": "assets/QUOT_119.jpeg"
@@ -838,6 +838,27 @@
     "typedProductCode": "",
     "handwritingImage": "assets/HANDQUOT_120.jpeg",
     "typedImage": "assets/QUOT_120.jpeg"
-  }
+  },
+  {
+    "id": "121",
+    "handwrittenText": "",
+    "typedProductCode": "",
+    "handwritingImage": "assets/HANDQUOT_121.jpeg",
+    "typedImage": "assets/QUOT_121.jpeg"
+  },
+  {
+    "id": "122",
+    "handwrittenText": "",
+    "typedProductCode": "",
+    "handwritingImage": "assets/HANDQUOT_122.jpeg",
+    "typedImage": "assets/QUOT_122.jpeg"
+  },
+  {
+    "id": "123",
+    "handwrittenText": "",
+    "typedProductCode": "",
+    "handwritingImage": "assets/HANDQUOT_123.jpeg",
+    "typedImage": "assets/QUOT_123.jpeg"
+  },
 ]
 
